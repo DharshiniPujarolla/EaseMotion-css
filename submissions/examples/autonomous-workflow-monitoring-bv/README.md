@@ -1,8 +1,8 @@
 # Technical Specifications Manual
 
-## Phase 97: AI-Powered Strategy Center
+## Phase 70: Autonomous Workflow Monitoring Center
 
-Welcome to the flagship enterprise documentation for the **AI-Powered Strategy Center**. This manual contains detailed outlines of the architectural design decisions, UI layout composition strategies, responsive breakpoints, accessibility considerations, and pure-CSS transition implementations that govern this system.
+Welcome to the flagship enterprise documentation for the **Autonomous Workflow Monitoring Center**. This manual contains detailed outlines of the architectural design decisions, UI layout composition strategies, responsive breakpoints, accessibility considerations, and pure-CSS transition implementations that govern this system.
 
 ---
 
@@ -10,7 +10,7 @@ Welcome to the flagship enterprise documentation for the **AI-Powered Strategy C
 
 ### Objective
 
-The core objective of **AI-Powered Strategy Center** is to build a premium, highly responsive engineering console demonstrating:
+The core objective of **Autonomous Workflow Monitoring Center** is to build a premium, highly responsive engineering console demonstrating:
 
 - High performance metrics tracking without expensive client-side script allocations.
 - A dark mode aesthetic with premium neon-accent visual cues.
@@ -74,9 +74,9 @@ The interface uses a two-column sidebar layout suited for desktop layouts, adapt
 
 This dashboard uses custom HSL variables to maintain design consistency and theme flexibility:
 
-- **Primary Color (`--primary-hsl`)**: `hsl(230, 90%, 55%)` - Primary branding accents.
-- **Secondary Color (`--secondary-hsl`)**: `hsl(285, 85%, 60%)` - Secondary metrics lines.
-- **Accent Color (`--accent-hsl`)**: `hsl(160, 80%, 45%)` - Callouts and interactive states.
+- **Primary Color (`--primary-hsl`)**: `hsl(265, 85%, 60%)` - Primary branding accents.
+- **Secondary Color (`--secondary-hsl`)**: `hsl(15, 85%, 55%)` - Secondary metrics lines.
+- **Accent Color (`--accent-hsl`)**: `hsl(190, 90%, 50%)` - Callouts and interactive states.
 - **Background Color (`--bg-dark`)**: `#07090e` - Dark background layout.
 - **Card Background (`--bg-card`)**: `rgba(14, 18, 28, 0.7)` - Glassmorphism panels.
 
